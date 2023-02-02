@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/visionai-landing-page/static/css/main.85acbb5f.chunk.css",
-    "main.js": "/visionai-landing-page/static/js/main.02d5adfc.chunk.js",
-    "main.js.map": "/visionai-landing-page/static/js/main.02d5adfc.chunk.js.map",
+    "main.js": "/visionai-landing-page/static/js/main.05358197.chunk.js",
+    "main.js.map": "/visionai-landing-page/static/js/main.05358197.chunk.js.map",
     "runtime-main.js": "/visionai-landing-page/static/js/runtime-main.6a85e91b.js",
     "runtime-main.js.map": "/visionai-landing-page/static/js/runtime-main.6a85e91b.js.map",
     "static/js/2.07943819.chunk.js": "/visionai-landing-page/static/js/2.07943819.chunk.js",
     "static/js/2.07943819.chunk.js.map": "/visionai-landing-page/static/js/2.07943819.chunk.js.map",
     "index.html": "/visionai-landing-page/index.html",
-    "precache-manifest.2daf5f2835228ea7e36e327f89777d0b.js": "/visionai-landing-page/precache-manifest.2daf5f2835228ea7e36e327f89777d0b.js",
+    "precache-manifest.f08fa1de6df1430fd6b869c561ff33cf.js": "/visionai-landing-page/precache-manifest.f08fa1de6df1430fd6b869c561ff33cf.js",
     "service-worker.js": "/visionai-landing-page/service-worker.js",
     "static/css/main.85acbb5f.chunk.css.map": "/visionai-landing-page/static/css/main.85acbb5f.chunk.css.map",
     "static/js/2.07943819.chunk.js.LICENSE.txt": "/visionai-landing-page/static/js/2.07943819.chunk.js.LICENSE.txt",
@@ -16,18 +16,16 @@
     "static/media/feature-tile-icon-01.svg": "/visionai-landing-page/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/visionai-landing-page/static/media/feature-tile-icon-02.bd39f304.svg",
     "static/media/feature-tile-icon-03.svg": "/visionai-landing-page/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-04.svg": "/visionai-landing-page/static/media/feature-tile-icon-04.836acd10.svg",
-    "static/media/feature-tile-icon-05.svg": "/visionai-landing-page/static/media/feature-tile-icon-05.fa9ba00b.svg",
-    "static/media/feature-tile-icon-06.svg": "/visionai-landing-page/static/media/feature-tile-icon-06.6a177696.svg",
     "static/media/features-split-image-01.png": "/visionai-landing-page/static/media/features-split-image-01.d9cb99ce.png",
     "static/media/features-split-image-02.png": "/visionai-landing-page/static/media/features-split-image-02.3c569239.png",
     "static/media/features-split-image-03.png": "/visionai-landing-page/static/media/features-split-image-03.87e4d053.png",
-    "static/media/video-placeholder.jpg": "/visionai-landing-page/static/media/video-placeholder.a622fc5d.jpg"
+    "static/media/new-video-placeholder.jpg": "/visionai-landing-page/static/media/new-video-placeholder.ae8895c9.jpg",
+    "static/media/visionai-low-resolution-logo-white-on-transparent-background.png": "/visionai-landing-page/static/media/visionai-low-resolution-logo-white-on-transparent-background.2b5617a8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a85e91b.js",
     "static/js/2.07943819.chunk.js",
     "static/css/main.85acbb5f.chunk.css",
-    "static/js/main.02d5adfc.chunk.js"
+    "static/js/main.05358197.chunk.js"
   ]
 }

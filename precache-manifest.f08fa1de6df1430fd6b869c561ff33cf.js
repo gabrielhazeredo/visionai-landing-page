@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64206bf5a59279e6102a0f51fbe358aa",
+    "revision": "519d5c53e087ce8c9369ba2c54e88ec0",
     "url": "/visionai-landing-page/index.html"
   },
   {
-    "revision": "ffa57ddbada1c3fcd032",
+    "revision": "119f717ad04154c663a1",
     "url": "/visionai-landing-page/static/css/main.85acbb5f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visionai-landing-page/static/js/2.07943819.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ffa57ddbada1c3fcd032",
-    "url": "/visionai-landing-page/static/js/main.02d5adfc.chunk.js"
+    "revision": "119f717ad04154c663a1",
+    "url": "/visionai-landing-page/static/js/main.05358197.chunk.js"
   },
   {
     "revision": "cd9f735087307b1c544e",
@@ -40,18 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visionai-landing-page/static/media/feature-tile-icon-03.66f37ba5.svg"
   },
   {
-    "revision": "836acd100a942420f8ab4e6c5e4162d8",
-    "url": "/visionai-landing-page/static/media/feature-tile-icon-04.836acd10.svg"
-  },
-  {
-    "revision": "fa9ba00b178abc7bd2e02bd986e91fe3",
-    "url": "/visionai-landing-page/static/media/feature-tile-icon-05.fa9ba00b.svg"
-  },
-  {
-    "revision": "6a1776963deb39d710bae80bb449aebe",
-    "url": "/visionai-landing-page/static/media/feature-tile-icon-06.6a177696.svg"
-  },
-  {
     "revision": "d9cb99ceb6a66250792ed78f5765325b",
     "url": "/visionai-landing-page/static/media/features-split-image-01.d9cb99ce.png"
   },
@@ -72,7 +60,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visionai-landing-page/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "a622fc5dd8adcdd27ea42218385013b4",
-    "url": "/visionai-landing-page/static/media/video-placeholder.a622fc5d.jpg"
+    "revision": "ae8895c997c317b48f20318b3ff55bb5",
+    "url": "/visionai-landing-page/static/media/new-video-placeholder.ae8895c9.jpg"
+  },
+  {
+    "revision": "2b5617a89d054efc94d5f7451ddabc3b",
+    "url": "/visionai-landing-page/static/media/visionai-low-resolution-logo-white-on-transparent-background.2b5617a8.png"
   }
 ]);
