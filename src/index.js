@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Router } from "react-router-dom";
+import { Router, BrowserRouter, Route, Provider } from "react-router-dom";
 import { createBrowserHistory } from "history";
 
 import App from './App';
@@ -12,9 +12,16 @@ import './assets/scss/style.scss';
 const history = createBrowserHistory();
 
 ReactDOM.render(
-  <Router history={history}>
-    <App />
-  </Router>,
+  // <Router history={history} basename="/visionai-landing-page/">
+  //   <App />
+  // </Router>,
+
+
+  <BrowserRouter  basename={window.location.pathname || ''}>
+    <div>
+      <Route exact path="/" component={App} />
+    </div>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
