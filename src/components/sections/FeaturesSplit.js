@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'AI para controle automatizado',
+    paragraph: 'Tenha 100% de inspeção sobre o processo de produção, com a ajuda da inteligência artificial'
   };
 
   return (
