@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3eae0f1136f89667f925be36983dbe1",
+    "revision": "64206bf5a59279e6102a0f51fbe358aa",
     "url": "/visionai-landing-page/index.html"
   },
   {
-    "revision": "e4706a784957c5bc1b24",
+    "revision": "ffa57ddbada1c3fcd032",
     "url": "/visionai-landing-page/static/css/main.85acbb5f.chunk.css"
   },
   {
-    "revision": "17cc3cee5b44316dcae1",
-    "url": "/visionai-landing-page/static/js/2.89088abe.chunk.js"
+    "revision": "5f2d46b45413fd2a8c01",
+    "url": "/visionai-landing-page/static/js/2.07943819.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/visionai-landing-page/static/js/2.89088abe.chunk.js.LICENSE.txt"
+    "url": "/visionai-landing-page/static/js/2.07943819.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4706a784957c5bc1b24",
-    "url": "/visionai-landing-page/static/js/main.8b6964f8.chunk.js"
+    "revision": "ffa57ddbada1c3fcd032",
+    "url": "/visionai-landing-page/static/js/main.02d5adfc.chunk.js"
   },
   {
     "revision": "cd9f735087307b1c544e",
