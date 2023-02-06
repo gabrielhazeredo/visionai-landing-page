@@ -105,7 +105,7 @@ const Header = ({
                     'header-nav',
                     isActive && 'is-active'
                   )}>
-                <div className="header-nav-inner">
+                {/* <div className="header-nav-inner">
                   <ul className={
                     classNames(
                       'list-reset text-xs',
@@ -123,7 +123,7 @@ const Header = ({
                         <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
                       </li>
                     </ul>}
-                </div>
+                </div> */}
               </nav>
             </>}
         </div>

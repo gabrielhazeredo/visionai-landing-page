@@ -53,8 +53,8 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              Interessado em implementar solução de visão computacional? Entre em contato!
-              </h3>
+              Interessado em implementar solução de visão computacional? Assine a newsletter
+            </h3>
           </div>
           <div className="cta-action">
             <Input id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder="Email corporativo">
