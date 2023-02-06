@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/visionai-landing-page/precache-manifest.f08fa1de6df1430fd6b869c561ff33cf.js"
+  "/visionai-landing-page/precache-manifest.68cb61f7a0bd994952e557312da4451c.js"
 );
 
 self.addEventListener('message', (event) => {
